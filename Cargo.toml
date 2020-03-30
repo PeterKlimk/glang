@@ -1,0 +1,6 @@
+[package]
+name = "glang"
+version = "0.1.0"
+authors = ["Peter Klimenko <peterklimk@outlook.com>"]
+
+[dependencies]
